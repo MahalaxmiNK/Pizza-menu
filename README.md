@@ -1,3 +1,7 @@
+The Fast React Pizza Co. App to display the menu.
+
+![Pizza menu](https://github.com/MahalaxmiNK/Pizza-menu/assets/72446167/37d33436-9960-4d65-9fab-0bbb97a187d0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
